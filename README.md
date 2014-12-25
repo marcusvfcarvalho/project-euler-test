@@ -8,3 +8,5 @@ que pede que se encontre o maior produto de quatro elementos adjacentes de uma m
 
 2 O cálculo para cima, para esquerda, e as diagonais para cima são reduntantes, já que o cálculo para esquerda de um elemento qualquer é igual ao cálculo para a direira do elemento 4 posições à esquerda do elemento inicial. 
 
+3 O sistema foi desenvolvido em C# no Visual Studio 2013 Community Edition.
+
